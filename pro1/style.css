@@ -1,0 +1,106 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+
+body{
+    background-color: plum;
+    margin: 0%;
+    text-align: center;
+    font-family: "Comic Sans MS",cursive,sans-serif;
+    /* font-size: 200%; */
+}
+
+h1{
+    margin: /*8%*/ 50px auto 0 auto;
+    font-size: 5.234rem;
+    line-height: 2;
+}
+h2{
+    font-size: 2.5rem;  /*40px=2.5rem*/
+    font-weight: normal;
+}
+.web{
+    margin-top: 0;
+}
+
+.Top_Container{
+    background-color: #905E96;
+    /* display: inline; */
+    position: relative;
+    padding-top: 100px;
+   
+}
+.middle-container{
+    margin: 1rem 0rem rem 0rem ;
+
+}
+.skill-row{
+    text-align: left;
+    line-height: 2;
+    margin-bottom: 10%;
+}
+
+
+
+.bottom-container{
+  
+    margin-bottom: 50px 0 30px 0;
+    padding-bottom: 20px;
+}
+.Bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.Top-cloud{
+    position: absolute;
+   right: 300px;
+   top: 50px;
+}
+hr{
+  
+    border-style: none;
+    border-top-style: dotted;
+    width: 5%;
+    border-color: gray;
+    border-width: 5px;
+    margin-top: 3rem;
+}
+.img-ski{
+    width:15%;
+    float: left;
+    margin-right: 30px;
+}
+.s2{
+    width:18%;
+    float: right;
+    
+}
+button{
+    background-color: rgb(160, 105, 187);
+    border-radius: 10px;
+    padding: 15px 15px;
+    border: 0ch;
+
+}
+button a{
+    text-decoration: none;
+    font-weight: bolder;
+    padding: 5rem 0;
+    font-size: 1rem;
+  
+
+}
+footer{
+    margin: 0rem;
+    background-color: #905E96;
+    padding: 50px 0 20px 0;
+
+}
+footer a{
+    text-decoration: none;
+    padding: 3rem;
+    font-weight: bolder;
+    
+}

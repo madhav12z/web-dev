@@ -1,0 +1,21 @@
+ img:hover{
+   border: 10px solid plum;
+   border-radius: 100%;
+} 
+h1{
+    color: red;
+    font-size: 80px;
+}
+.shawarma {
+    border: 10px solid rgb(12, 244, 31);
+}
+.broccoli{
+    border: 10px solid rgb(244, 12, 12);  
+}
+body{
+    background-image: url(/img/Untitled\ design.png);
+}
+p{
+    color: aliceblue;
+    font-size: 30px;
+}
